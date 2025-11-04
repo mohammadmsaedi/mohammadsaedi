@@ -48,7 +48,7 @@ Principal Investigator | Cybersecurity | 5G & 6G Network Security | AI/ML for Th
 
 - [City, University of London Staff Profile](https://www.city.ac.uk/about/people/academics/mohammad-saedi)
 - [LinkedIn](#) *(optional, if you have a profile)*  
-- [ORCID](https://orcid.org)  
+- [ORCID]([https://orcid.org](https://orcid.org/0000-0001-6436-1057))  
 - [IEEE Member Profile](#)
 
 ---
