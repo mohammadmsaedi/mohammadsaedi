@@ -40,7 +40,7 @@ Principal Investigator | Cybersecurity | 5G & 6G Network Security | AI/ML for Th
 
 - **IEEE CSR 2025** — presenting RBS-MLP project
 - Ongoing publications in IEEE Transactions on Network and Service Management, Computer Networks
-- See [Google Scholar](#) and [ORCID](https://orcid.org) for full list of publications
+- See [Google Scholar]([#](https://scholar.google.com/citations?user=keUK7RUAAAAJ&hl=en) and [ORCID](https://orcid.org) for full list of publications
 
 ---
 
